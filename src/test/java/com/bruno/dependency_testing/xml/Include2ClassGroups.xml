@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation University Suite">
+    <test name="Include 2 Classes Groups Test">
+        <groups>
+            <run>
+                <include name="regression"/>
+                <include name="env_application"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.bruno.dependency_testing.Amazon_FakeSite"/>
+            <class name="com.bruno.dependency_testing.Groups_DependsOnGroups_PASS"/>
+        </classes>
+    </test> <!-- configuration annotation Test -->
+</suite> <!-- Test Automation University Suite -->

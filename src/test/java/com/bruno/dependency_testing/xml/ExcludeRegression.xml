@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation University Suite">
+    <test name="Exclude Regression Test">
+        <groups>
+            <run>
+                <exclude name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.bruno.dependency_testing.Amazon_FakeSite">
+            </class>
+        </classes>
+    </test> <!-- configuration annotation Test -->
+</suite> <!-- Test Automation University Suite -->

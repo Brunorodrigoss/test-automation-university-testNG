@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11cfc7c9-f53e-46e6-94c5-f9dad2b79ae9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/SignInDP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/LogIn1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/TestAutomationU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/ConfigurationAnnotations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/BM_AM_OrangeHRM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="117" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/OrangeHRM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="14" column="131" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/DemoAnnotations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/annotations/DemoAnnotations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/annotations/ConfigurationAnnotationsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/annotations/ConfigurationAnnotations.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/annotations/BM_AM_OrangeHRM.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xml_files/testng1.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/annotations/ConfigurationAnnotations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/testng1.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/testng2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/annotations/BM_AM_OrangeHRM.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utility/Highlighter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/priority_atribute/DefaultExecutionOrder_Class.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySign_HA_FAIL.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySign_HA_PASS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySignIn_SA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/FAIL_ConfigurationAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_No.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_FAIL.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_PASS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/annotations/FAIL_ConfigurationAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Groups_DependsOnGroups_PASS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Groups_DependsOnGroups_FAIL.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Amazon_FakeSite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/DependsOnMethod.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/ExcludeRegression.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/IncludeRegularExpression.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/IncludeSmokeAndSystem.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/IncludeReg.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/Include2ClassGroups.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/AllGroups.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/LogIn1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/SignInDP.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/OrangeHRM.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/TestAutomationU.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bruno" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bruno" type="462c0819:PsiDirectoryNode" />
+              <item name="cross_browser_testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomtionUniversityTestNG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomtionUniversityTestNG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bruno" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554140231589" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="annotations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml">
+    <configuration name="ConfigurationAnnotationTest" type="TestNG">
+      <module name="TestAutomtionUniversityTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruno.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.bruno.annotations" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogIn1.logIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruno.data_provider_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bruno.data_provider_testing" />
+      <option name="MAIN_CLASS_NAME" value="com.bruno.data_provider_testing.LogIn1" />
+      <option name="METHOD_NAME" value="logIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHRM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruno.data_provider_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bruno.data_provider_testing" />
+      <option name="MAIN_CLASS_NAME" value="com.bruno.data_provider_testing.OrangeHRM" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHRM.signIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruno.data_provider_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bruno.data_provider_testing" />
+      <option name="MAIN_CLASS_NAME" value="com.bruno.data_provider_testing.OrangeHRM" />
+      <option name="METHOD_NAME" value="signIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/AllGroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/AllGroups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/testng1.xml" type="TestNG" nameIsGenerated="true">
+      <module name="TestAutomtionUniversityTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/bruno/xml_files/testng1.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml" />
+        <item itemvalue="TestNG.OrangeHRM" />
+        <item itemvalue="TestNG.OrangeHRM.signIn" />
+        <item itemvalue="TestNG.LogIn1.logIn" />
+        <item itemvalue="TestNG./Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/AllGroups.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11cfc7c9-f53e-46e6-94c5-f9dad2b79ae9" name="Default Changelist" comment="" />
+      <created>1554068967898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554068967898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_IncludeReg_xml - 2019.03.31 at 23h 58m 09s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/IncludeReg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_ExcludeRegression_xml - 2019.03.31 at 23h 59m 26s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/ExcludeRegression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_IncludeRegularExpression_xml - 2019.04.01 at 00h 00m 57s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/IncludeRegularExpression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_Include2ClassGroups_xml - 2019.04.01 at 00h 07m 58s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/Include2ClassGroups.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_DependsOnMethod_xml - 2019.04.01 at 00h 15m 40s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/DependsOnMethod.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_bruno_Projects_TestAutomtionUniversityTestNG_src_test_java_com_bruno_xml_files_AllGroups_xml - 2019.04.01 at 00h 18m 10s.xml">
+      <configuration name="/Users/bruno/Projects/TestAutomtionUniversityTestNG/src/test/java/com/bruno/xml_files/AllGroups.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LogIn1_logIn - 2019.04.01 at 13h 50m 43s.xml">
+      <configuration name="LogIn1.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OrangeHRM_signIn - 2019.04.01 at 13h 57m 11s.xml">
+      <configuration name="OrangeHRM.signIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OrangeHRM - 2019.04.01 at 14h 01m 27s.xml">
+      <configuration name="OrangeHRM" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OrangeHRM - 2019.04.01 at 14h 02m 15s.xml">
+      <configuration name="OrangeHRM" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4920635" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" sideWeight="0.50793654" side_tool="true" weight="0.24964234" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5328377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939634" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283767" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/annotations/ConfigurationAnnotationsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/xml_files/re.xsl" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/xml_files/testng1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/DemoAnnotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utility/Highlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="85" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/asserts/Assertion.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="308" column="23" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
+          <folding>
+            <element signature="e#10571#10572#0" expanded="true" />
+            <element signature="e#10625#10626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySign_HA_PASS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/priority_atribute/DefaultExecutionOrder_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" column="131" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySignIn_SA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="19" column="131" selection-start-line="19" selection-start-column="131" selection-end-line="19" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_No.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="131" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/xml_files/testng2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="50" lean-forward="true" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_PASS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/FAIL_ConfigurationAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/DependsOnMethods_FAIL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="131" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Groups_DependsOnGroups_FAIL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="16" column="133" selection-start-line="16" selection-start-column="133" selection-end-line="16" selection-end-column="133" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/ExcludeRegression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/IncludeSmokeAndSystem.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Amazon_FakeSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/IncludeRegularExpression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/Groups_DependsOnGroups_PASS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="15" column="131" selection-start-line="15" selection-start-column="131" selection-end-line="15" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/AllGroups.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/DependsOnMethod.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/Include2ClassGroups.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/dependency_testing/xml/IncludeReg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/assertions/VerifySign_HA_FAIL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/OrangeHRM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="14" column="131" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/SignInDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/data_provider_testing/LogIn1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/ConfigurationAnnotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/annotations/BM_AM_OrangeHRM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/cross_browser_testing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bruno/cross_browser_testing/TestAutomationU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
